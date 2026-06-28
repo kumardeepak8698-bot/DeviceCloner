@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="cloned_apps" path="cloned_apps/" />
+    <files-path name="decompiled" path="decompiled/" />
+    <files-path name="internal" path="/" />
+    <cache-path name="cache" path="/" />
+</paths>
